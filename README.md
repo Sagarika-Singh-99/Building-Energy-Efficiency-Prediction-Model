@@ -38,4 +38,4 @@ The target variable is the energy efficiency rating, which is typically measured
 * Explore the trained model's performance and make predictions on new data.
 
 ## Contributors
-Utkarsh Singh - Project Lead
+SS
